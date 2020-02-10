@@ -1,3 +1,6 @@
+
+require "pry"
+
 class Dog 
 
 
@@ -12,7 +15,7 @@ class Dog
    # @@all << self
     
     
-    
+    binding.pry
     
   end
   
